@@ -29,7 +29,7 @@ The other engineered feature I created was the distance of a district from the o
     
     6) Adds several new potentially valuable attributes
     
-    6) Normalizes all the numerical data
+    7) Normalizes all the numerical data
     
 ### 3. Tested three popular models provided by Scikit-learn library with their default values as well as a simple neural network.
 
